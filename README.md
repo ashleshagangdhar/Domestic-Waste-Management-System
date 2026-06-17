@@ -40,9 +40,9 @@ Integration with smart city services
 
 ## 👨‍💻 Team Members
 This project was developed by:
-Ashlesha Gangdhar
-Pradnya Belvi
-Ragini Kamble
+Ashlesha Gangdhar |
+Pradnya Belvi |
+Ragini Kamble |
 Pooja Lakhangave
 
 ## 📌 Conclusion
